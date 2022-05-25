@@ -83,7 +83,7 @@ pycparser==2.18
 pyflakes==1.6.0
 Pygments==2.2.0
 pygobject==3.28.3
-PyJWT==1.5.2
+PyJWT==2.4.0
 pyparsing==2.2.0
 pyscreenshot==0.4.2
 PySide2==5.11.0
